@@ -2,7 +2,7 @@
 
 ### Meridian Global Shipping | Data Analytics Project
 
-## 📌 Project Overview
+##  Project Overview
 
 MGS — Project ATLAS is a practical shipping analytics project developed using **Microsoft Excel**.
 
@@ -12,7 +12,7 @@ The objective is to transform raw operational data into meaningful business insi
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 The project focuses on answering key business questions such as:
 
@@ -28,7 +28,7 @@ The project focuses on answering key business questions such as:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 | Attribute | Details |
 |---|---|
@@ -42,7 +42,7 @@ The dataset contains shipment/order details, customers, vessels, cargo/products,
 
 ---
 
-## 🧹 Data Quality & Preparation
+##  Data Quality & Preparation
 
 Before performing the analysis, the dataset was checked for data quality.
 
@@ -56,7 +56,7 @@ Data preparation included checking dates, numerical values, consistency and over
 
 ---
 
-## 🛠️ Excel Skills Used
+##  Excel Skills Used
 
 This project demonstrates practical application of major Microsoft Excel concepts used in Data Analytics:
 
@@ -85,7 +85,7 @@ This project demonstrates practical application of major Microsoft Excel concept
 
 ---
 
-## 🧮 Excel Formulas & Functions
+##  Excel Formulas & Functions
 
 ### Aggregation
 
@@ -115,7 +115,7 @@ Additional calculations included arithmetic operations, percentage calculations,
 
 ---
 
-## 📈 Key Performance Indicators
+##  Key Performance Indicators
 
 The project dashboard contains **8 KPIs**:
 
@@ -142,7 +142,7 @@ The project dashboard contains **8 KPIs**:
 
 ---
 
-## 🔎 Business Analysis
+##  Business Analysis
 
 ### Round 1
 
@@ -167,7 +167,7 @@ These analyses were used to understand financial, operational and customer-level
 
 ---
 
-## 📊 Pivot Table Analysis
+##  Pivot Table Analysis
 
 Pivot Tables were used to summarize and compare shipment data across important business dimensions such as:
 
@@ -182,7 +182,7 @@ The Pivot Table analysis supported the business questions and dashboard developm
 
 ---
 
-## 📉 Dashboard
+##  Dashboard
 
 The final Excel dashboard contains:
 
@@ -203,7 +203,7 @@ The visualizations were designed to make business trends and performance differe
 
 ---
 
-## 💼 Scenario Analysis
+##  Scenario Analysis
 
 The project also included practical business scenarios involving:
 
@@ -217,7 +217,7 @@ The project also included practical business scenarios involving:
 The objective was to understand how operational changes could affect business performance.
 
 
-## 🔄 Analytical Workflow
+##  Analytical Workflow
 
 Raw Dataset
      ↓

@@ -238,5 +238,5 @@ Charts & Visualisation
 Dashboard
      |
 Scenario Analysis
-     ↓
+     |
 Business Insights

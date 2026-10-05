@@ -220,23 +220,23 @@ The objective was to understand how operational changes could affect business pe
 ##  Analytical Workflow
 
 Raw Dataset
-     ↓
+     |
 Data Quality Check
-     ↓
+     |
 Data Preparation
-     ↓
+     |
 Excel Formulas & Functions
-     ↓
+     |
 Pivot Table Analysis
-     ↓
+     |
 Business Questions
-     ↓
+     |
 KPI Development
-     ↓
+     |
 Charts & Visualisation
-     ↓
+     |
 Dashboard
-     ↓
+     |
 Scenario Analysis
      ↓
 Business Insights
